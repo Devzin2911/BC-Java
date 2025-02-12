@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author grocha
+ *
+ */
+module meuPrimeiroProjeto {
+}
